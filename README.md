@@ -1,4 +1,4 @@
-# ING (xsl) to Xero (csv) converter
+# ING (xls) to Xero (csv) converter
 
 This tool translate an ING exported statements to a Xero csv compliant import
 

@@ -1,4 +1,5 @@
-'use strict';
+#!/usr/bin/env node
+
 const xlsParse = require('xls-parse');
 const toCSV = require('array-to-csv');
 const inputFile = process.argv[2] || './input.xls';

@@ -1,6 +1,6 @@
 {
   "name": "ing-to-xero-formatter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ING XLS statements export to Xero CSV format",
   "bin": "index.js",
   "main": "index.js",

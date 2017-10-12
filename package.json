@@ -12,7 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "array-to-csv": "^1.0.1",
-    "xls-parse": "^1.0.4",
-    "xlsx": "^0.10.5"
+    "xlsx": "^0.10.9"
   }
 }

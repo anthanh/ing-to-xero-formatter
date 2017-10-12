@@ -9,7 +9,7 @@ let data = xlsParse.formatXls2Obj(inputFile, sheetName);
 
 data = data[sheetName];
 // remove header
-data.splice(0, 6);
+data.splice(0, 5);
 
 // ING Spain export format
 // ['FECHA', '', 'DESCRIPCIÓN', 'CONCEPTO', 'IMPORTE', 'SALDO', '']
